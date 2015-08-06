@@ -6,7 +6,7 @@
 - Lemon Juice
 - Carbonated Water
 
-- Swedish Yerba Mate store: https://www.yerba.se/
+[Swedish Yerba Mate store](https://www.yerba.se/).
 
 ### BUILDING
 SuperStrong Mate Tea (1 liter):
