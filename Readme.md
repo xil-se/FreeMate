@@ -16,8 +16,8 @@
   - Filter it through a coffee filter. This makes it less cloudy.
   - Let it cool down and finally put it in the fridge.
 - Dissolved sugar in water:
-  - Boil a small amount of water (e.g. 2dl)
-  - Add sugar until the solution becomes a little bit thicker than water.
+  - Pour 2dl water in a small pot and boil.
+  - Add sugar and stir until the solution becomes a little bit thicker than water.
   - Don't add too much sugar, then it will not be easy to use later.
 
 ### INSTALLING
