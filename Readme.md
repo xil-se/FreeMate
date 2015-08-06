@@ -6,6 +6,8 @@
 - Lemon Juice
 - Carbonated Water
 
+- Swedish Yerba Mate store: https://www.yerba.se/
+
 ### BUILDING
 SuperStrong Mate Tea (1 liter):
 - Boil 1 liter water.
@@ -31,6 +33,7 @@ Dissolved sugar in water:
 
 ### TESTING
 - Every now and then, compare your FreeMate installation with a Club Mate. This will let you realise what a fantastic beverage you have created.
+
 
 ### COPYING
 "THE BEER/MATE-WARE LICENSE":
