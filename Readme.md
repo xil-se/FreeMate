@@ -9,17 +9,16 @@
 [Swedish Yerba Mate store](https://www.yerba.se/).
 
 ### BUILDING
-SuperStrong Mate Tea (1 liter):
-- Boil 1 liter water.
-- Add 5 tablespoons of Yerba Mate Tea.
-- Let it sit for at least 7 minutes.
-- Filter it through a coffee filter. This makes it less cloudy.
-- Let it cool down and finally put it in the fridge.
-
-Dissolved sugar in water:
-- Boil a small amount of water (e.g. 2dl)
-- Add sugar until the solution becomes a little bit thicker than water.
-- Don't add too much sugar, then it will not be easy to use later.
+- SuperStrong Mate Tea (1 liter):
+  - Boil 1 liter water.
+  - Add 5 tablespoons of Yerba Mate Tea.
+  - Let it sit for at least 7 minutes.
+  - Filter it through a coffee filter. This makes it less cloudy.
+  - Let it cool down and finally put it in the fridge.
+- Dissolved sugar in water:
+  - Boil a small amount of water (e.g. 2dl)
+  - Add sugar until the solution becomes a little bit thicker than water.
+  - Don't add too much sugar, then it will not be easy to use later.
 
 ### INSTALLING
 - For each serving of FreeMate:
