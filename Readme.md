@@ -28,10 +28,10 @@
   - Mix it well
   - Add Carbonated Water
   - Mix carefully
-  - Ready for consumtion
+  - Ready for consumption
 
 ### TESTING
-- Every now and then, compare your FreeMate installation with a Club Mate. This will let you realise what a fantastic beverage you have created.
+- Every now and then, compare your FreeMate installation with a Club Mate. This will let you realize what a fantastic beverage you have created.
 
 
 ### COPYING
